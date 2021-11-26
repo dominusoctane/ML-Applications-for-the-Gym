@@ -7,3 +7,7 @@ Additional data may include hormone levels(testosterone,estrogen,HGH), vitamins/
 
 
 Actively looking for data that does not involve individuals taking PEDs(anabolic steroids, human growth hormone, erythropoietin (EPO), beta-blockers, selective androgen receptor modulators, etc)
+
+References:
+
+https://osf.io/preprints/sportrxiv/w734a/
